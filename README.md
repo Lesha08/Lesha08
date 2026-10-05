@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Alex!
 
 💻 Software Development Student @ SETU  
-🎮 Gaming & VR enthusiast  
+🎮 PC Gaming  
 🏐 Volleyball player  
 🌍 Based in Ireland  
 
@@ -10,8 +10,8 @@
 ## 🧑‍💻 About Me
 
 - 🎓 Studying Software Development
-- ☕ Currently learning Java, HTML, CSS & Networking
-- 🖥️ Interested in programming, cybersecurity and hardware
+- ☕ Currently learning HTML, CSS & Networking
+- 🖥️ Interested in programming and cybersecurity
 - 🎮 I spend way too much time gaming
 - 🚀 Always working on something new
 
@@ -35,7 +35,6 @@
 
 ## 🔥 Current Projects
 
-- 🖥️ Java programming projects
 - 🌐 Web development projects
 - 🌐 Cisco networking labs
 - 🐧 Linux / Bash labs
@@ -48,12 +47,5 @@
 🏐 Volleyball  
 🥁 Drums  
 🎸 Guitar  
-🥽 VR  
 
 ---
-
-### 📫 Contact
-
-Feel free to check out my repositories and projects!
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
